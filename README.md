@@ -8,3 +8,6 @@ As this repo is made for learning purpose, you can fork it to your own page and 
 
 **NOTE:** Please feel free to edit this `README` to make any improvements.
 Adding new line
+
+
+# New note
